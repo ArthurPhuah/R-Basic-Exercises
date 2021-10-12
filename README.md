@@ -1,1 +1,1 @@
-# R-Basic-Exercises
+# R-Exercises
